@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-image: url(mustachebg.png);
+}
+
+h3 {
+    font-size: x-large;
+    font-weight: bold;
+    color: blue;
+    background-color: blanchedalmond;
+}
+
+button:hover {
+    background-color: greenyellow;
+    font-size: 25px;
+    border: coral 4px;
+    border-radius: 30px;
+}
+
+canvas {
+    margin-top: 50px;
+}
